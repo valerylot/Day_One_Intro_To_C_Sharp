@@ -12,3 +12,4 @@
 /Users/valerylot/Desktop/CSA Combine/Day_One_Intro_To_C_Sharp/obj/Debug/net10.0/Day_One_Intro_To_C_Sharp.pdb
 /Users/valerylot/Desktop/CSA Combine/Day_One_Intro_To_C_Sharp/obj/Debug/net10.0/Day_One_Intro_To_C_Sharp.genruntimeconfig.cache
 /Users/valerylot/Desktop/CSA Combine/Day_One_Intro_To_C_Sharp/obj/Debug/net10.0/ref/Day_One_Intro_To_C_Sharp.dll
+/Users/valerylot/Desktop/CSA Combine/Day_One_Intro_To_C_Sharp/obj/Debug/net10.0/Day_One_Intro_To_C_Sharp.sourcelink.json
